@@ -30,8 +30,8 @@ So what are you waiting for, join us to make this Feb to Pythonic Feb and step i
 </div>
 
 <h1 align="left">Our Community Partner</h1>
-<p align="center"> <img src="![image](https://user-images.githubusercontent.com/123486250/216775409-14db4341-0acc-40ae-b2f0-c397c7c5acca.png)
-" alt="Py'Pro" width="500" /></p>
+<img src="![Screenshot from 2023-02-04 20-52-59](https://user-images.githubusercontent.com/123486250/216776396-9a75ce55-3972-400d-a565-4235e1d2704d.png)" alt="Py'Pro" />
+
 
 ## Project Maintainer
 
