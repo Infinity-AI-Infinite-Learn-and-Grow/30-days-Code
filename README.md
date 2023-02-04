@@ -14,11 +14,15 @@ Rewards:
 
 
 So what are you waiting for, join us to make this Feb to Pythonic Feb and step into the Opens-Source world.
-
-
-<p align="center"> <img src="![image](https://user-images.githubusercontent.com/123486250/216775293-29e83d3e-1488-420d-8769-0211c977ee29.png)" alt="hello" width="500" /></p>
+<p align="center">
+    <img width="200" src="https://user-images.githubusercontent.com/123486250/216781026-1d0835be-7892-4116-a29f-ebff1cf9a22b.png" alt="Material Bread logo">
+</p>
 
 <!--
+<p>
+<img src="![image](https://user-images.githubusercontent.com/123486250/216775293-29e83d3e-1488-420d-8769-0211c977ee29.png)" alt="hello" width="500" />
+</p>
+
 <div align="center">
 
 ![Issues](https://github.com/Infinity-AI-Infinite-Learn-and-Grow/30-days-Code/issues)
@@ -30,7 +34,7 @@ So what are you waiting for, join us to make this Feb to Pythonic Feb and step i
 </div>
 
 <h1 align="left">Our Community Partner</h1>
-<img src="![Screenshot from 2023-02-04 20-52-59](https://user-images.githubusercontent.com/123486250/216776396-9a75ce55-3972-400d-a565-4235e1d2704d.png)" alt="Py'Pro" />
+<img width="100" src="https://user-images.githubusercontent.com/123486250/216776396-9a75ce55-3972-400d-a565-4235e1d2704d.png" alt="Py'Pro" />
 
 
 ## Project Maintainer
