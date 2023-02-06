@@ -42,7 +42,6 @@ So what are you waiting for, join us to make this Feb to Pythonic Feb and step i
 - [@shaishav06](https://github.com/shaishav06)
 - [@aadii0408](https://github.com/aadii0408)
 - [@neelshah2409](https://github.com/neelshah2409)
-- [@shruti0203](https://github.com/shruti0203)
 
   
 ## Process for upload your work
