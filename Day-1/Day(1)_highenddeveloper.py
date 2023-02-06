@@ -1,3 +1,14 @@
+username = input("Enter your username: ")
+
+country_name = input("Enter your country name: ")
+
+print(username)
+print(country_name)
+
+
+
+
+
 cal=input("choose from list and type:\n-add\n-sub\nmultiply\ndivide\nmodulas\n")
 
 a=int(input("enter the first number"))
