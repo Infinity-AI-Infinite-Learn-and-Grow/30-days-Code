@@ -1,3 +1,6 @@
+# Day2
+
+#-----Task 1-----
 first_name = "Mahek"
 last_name = "Goswami"
 city="Anand"
