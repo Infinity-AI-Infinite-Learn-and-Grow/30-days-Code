@@ -5,7 +5,8 @@
 # - Remove the last IT company from the list
 # - Destroy the IT company's list
 
-IT_company = ["Microsoft", "IBM", "Oracle", "TCS", "Infosys"]
+IT_company = ["Microsoft", "IBM", "Oracle",
+              "TCS", "Infosys", "Mindtree", "Accenture"]
 size = len(IT_company)
 
 print("First company:\t{}".format(IT_company[0]))
@@ -28,4 +29,4 @@ print("List check if exist or not:")
 try:
     print("IT company list: ", IT_company)
 except Exception:
-    print("IT company list does not exist")
+    print("--IT company-- list does not exist")
