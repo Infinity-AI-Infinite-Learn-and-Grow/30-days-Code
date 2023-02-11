@@ -1,7 +1,6 @@
 
 #- Find the length of the set it_companies
 
-from ntpath import join
 
 
 it_companies = {'Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon'}
