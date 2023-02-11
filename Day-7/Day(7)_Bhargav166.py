@@ -32,7 +32,7 @@ print("List\t", len(age_list))
 print("Set\t", len(age_set))
 if (len(age_list) > len(age_set)):
     print("-> List is bigger than the set")
-elif (len(age_list) > len(age_set)):
+elif (len(age_list) < len(age_set)):
     print("-> Set is bigger than the list")
 else:
     print("-> Both are of equal size")
