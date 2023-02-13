@@ -29,5 +29,5 @@ print("\nDatatype of skills key: {}".format(
 student['skills'].append('ReactJs')
 student['skills'].append('NodeJs')
 print("\nSkills: {}".format(student['skills']))
-print("\nValues of the dictionary:\n{}".format(student.values()))
+print("\nValues of the dictionary:\n{}".format(list(student.values())))
 print("\nDictionary items:\n{}".format(student.items()))
