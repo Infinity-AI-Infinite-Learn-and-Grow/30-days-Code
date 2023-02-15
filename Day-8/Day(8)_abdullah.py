@@ -40,5 +40,5 @@ print(student_dict.get("skills"))
 print(list(student_dict.values()))
 print("\n")
 
-# Change the dictionary to a list of tuples using the items() method
+# Change the dictionary to a list of tuples using the items() method.
 print(list(student_dict.items()))
