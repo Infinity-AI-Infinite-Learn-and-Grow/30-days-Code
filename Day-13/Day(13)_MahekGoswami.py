@@ -8,7 +8,8 @@ print(new_numbers)
 print("\t")
 
 # ------Task 2------
-
+list_of_tuples=[(i, 1, i**1, i**2, i**3,i**4, i**5) for i in range(3)]
+print(list_of_tuples)
 # ------Task 3------
 
 test_list=[[('Finland', 'Helsinki')], [('Sweden', 'Stockholm')], [('Norway', 'Oslo')]]
