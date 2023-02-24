@@ -1,0 +1,13 @@
+x = input("Enter your name :- \n")
+y = input("Enter Your Country:- \n")
+print(x+" "+y)
+
+a = int(input("Input number one:- \n"))
+b = int(input("Input number two:- \n"))
+print("Addition is", a+b)
+print("Substraction is ", a-b)
+print("Multiplication is ", a*b)
+print("Modulus is ", a % b)
+print("Division is ", a/b)
+print("Exponentioal is ", a**b)
+print("Floor division is ", a//b)
