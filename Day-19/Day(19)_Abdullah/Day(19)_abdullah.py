@@ -25,9 +25,7 @@ def count_lines_and_words(filename):
 
 
 # Count lines and words in obama_speech.txt
-fileName = "\obama_speech.txt"
-path = "D:\C Drive imp\Desktop\College\Python\Open Source\Infinity AI 30days\30-days-Code\Day-19\Data"
-filename = path + fileName
+filename = "data/obama_speech.txt"
 line_count, word_count = count_lines_and_words(filename)
 print(f"{filename}: {line_count} lines, {word_count} words")
 
