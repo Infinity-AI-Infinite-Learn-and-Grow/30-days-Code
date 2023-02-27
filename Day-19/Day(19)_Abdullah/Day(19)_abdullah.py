@@ -1,8 +1,9 @@
 # 1. Write a function which count number of lines and number of words in a text.
-# All the files are in the data the folder: a) Read obama_speech.txt file
-# and count number of lines and words b) Read michelle_obama_speech.txt file and
-# count number of lines and words c) Read donald_speech.txt file and count number of lines
-# and words d) Read melina_trump_speech.txt file and count number of lines and words
+# All the files are in the data the folder: 
+# # a) Read obama_speech.txt file and count number of lines and words 
+# b) Read michelle_obama_speech.txt file and count number of lines and words 
+# c) Read donald_speech.txt file and count number of lines and words 
+# d) Read melina_trump_speech.txt file and count number of lines and words
 
 # 2. Extract all incoming email addresses as a list from the email_exchange_big.txt file
 import re
@@ -25,22 +26,22 @@ def count_lines_and_words(filename):
 
 
 # Count lines and words in obama_speech.txt
-filename = "data/obama_speech.txt"
+filename = "Data/obama_speech.txt"
 line_count, word_count = count_lines_and_words(filename)
 print(f"{filename}: {line_count} lines, {word_count} words")
 
 # Count lines and words in michelle_obama_speech.txt
-filename = "data/michelle_obama_speech.txt"
+filename = "Data/michelle_obama_speech.txt"
 line_count, word_count = count_lines_and_words(filename)
 print(f"{filename}: {line_count} lines, {word_count} words")
 
 # Count lines and words in donald_speech.txt
-filename = "data/donald_speech.txt"
+filename = "Data/donald_speech.txt"
 line_count, word_count = count_lines_and_words(filename)
 print(f"{filename}: {line_count} lines, {word_count} words")
 
 # Count lines and words in melina_trump_speech.txt
-filename = "data/melina_trump_speech.txt"
+filename = "Data/melina_trump_speech.txt"
 line_count, word_count = count_lines_and_words(filename)
 print(f"{filename}: {line_count} lines, {word_count} words")
 
@@ -49,7 +50,7 @@ print(f"{filename}: {line_count} lines, {word_count} words")
 email_list = []
 
 # Open the file and read the contents
-with open("email_exchange_big.txt", "r") as file:
+with open("Data/email_exchange_big.txt", "r") as file:
     contents = file.read()
 
 # Find all email addresses using regular expressions
