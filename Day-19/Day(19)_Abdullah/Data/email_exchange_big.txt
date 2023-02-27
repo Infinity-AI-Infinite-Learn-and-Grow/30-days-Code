@@ -1,0 +1,10 @@
+dummy1@example.com
+testemail2@gmail.com
+randomemail3@hotmail.com
+fakeemail4@outlook.com
+tempmail5@yahoo.com
+junkemail6@mail.com
+noname7@protonmail.com
+myemail8@icloud.com
+throwaway9@inbox.com
+anonymous10@zoho.com
